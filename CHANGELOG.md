@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#9623](https://github.com/blockscout/blockscout/pull/9623) - update holder_count in db from ETS module
+
 ### Fixes
 
 ### Chore
