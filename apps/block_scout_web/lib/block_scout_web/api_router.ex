@@ -47,7 +47,7 @@ defmodule BlockScoutWeb.ApiRouter do
     plug(RateLimit)
   end
 
-  alias BlockScoutWeb.Account.Api.V1.{AuthenticateController, EmailController, TagsController, UserController}
+  alias BlockScoutWeb.Account.Api.V2.{AuthenticateController, EmailController, TagsController, UserController}
   alias BlockScoutWeb.API.V2
 
   scope "/account/v2", as: :account_v2 do
