@@ -8,6 +8,8 @@
 
 ### Chore
 
+- [#9660](https://github.com/blockscout/blockscout/pull/9660) - Remove /api/account/v1 path
+
 <details>
   <summary>Dependencies version bumps</summary>
 
