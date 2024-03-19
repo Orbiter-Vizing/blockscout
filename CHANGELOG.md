@@ -6,6 +6,8 @@
 
 ### Fixes
 
+- [#9671](https://github.com/blockscout/blockscout/pull/9671) - Change CoinGecko token image attribute priority
+
 ### Chore
 
 <details>
