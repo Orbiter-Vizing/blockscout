@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#9674](https://github.com/blockscout/blockscout/pull/9674) - Separate reorgs from blocks that just need refetch
+
 ### Fixes
 
 ### Chore
