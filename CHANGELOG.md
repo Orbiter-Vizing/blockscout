@@ -8,6 +8,8 @@
 
 ### Chore
 
+- [#9662](https://github.com/blockscout/blockscout/pull/9662) - Refactor test database config
+
 <details>
   <summary>Dependencies version bumps</summary>
 
